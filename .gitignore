@@ -5,3 +5,9 @@ downloads/
 config.local.yaml
 .idea/
 .vscode/
+
+.venv/
+*.pt
+*.onnx
+*.engine
+.DS_Store
